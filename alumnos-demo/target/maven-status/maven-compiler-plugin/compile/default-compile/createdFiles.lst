@@ -1,0 +1,5 @@
+com\colegio\alumnos\alumnosdemo\model\Alumno.class
+com\colegio\alumnos\alumnosdemo\data\InitData.class
+com\colegio\alumnos\alumnosdemo\AlumnosDemoApplication.class
+com\colegio\alumnos\alumnosdemo\controller\AlumnoController.class
+com\colegio\alumnos\alumnosdemo\repos\AlumnoRepository.class
